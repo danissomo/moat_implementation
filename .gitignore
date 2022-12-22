@@ -1,2 +1,7 @@
 .vscode
 data
+data_mr
+rank_0
+wandb/*
+*.ckpt
+*.meta
